@@ -10,7 +10,7 @@ pagerSize = 5
 [params]
   defaultCover = 'https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg'
   email = 'zakaz@armarost.ru'
-  [[params.Соц сети]]
+  [[params.socialMedia]]
     name = 'Github'
     url = 'https://github.com/floyd-li'
   [[params.blogroll]]
