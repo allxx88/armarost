@@ -1,6 +1,6 @@
 baseURL = 'https://allxx88.github.io/armarost'
-languageCode = 'en'
-defaultContentLanguage = "en"
+languageCode = 'ru-ru'
+defaultContentLanguage = "ru-ru"
 hasCJKLanguage = true
 enableEmoji = true
 title = 'АРМАРОСТ'
