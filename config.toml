@@ -1,18 +1,18 @@
-baseURL = '/'
+baseURL = 'https://allxx88.github.io/armarost/'
 languageCode = 'en'
 defaultContentLanguage = "en"
 hasCJKLanguage = true
 enableEmoji = true
-title = 'iTheme'
-copyright = 'Floyd Li'
+title = 'АРМАРОСТ'
+copyright = 'Армарост'
 theme = 'hugo-theme-itheme'
 pagerSize = 5
 [params]
   defaultCover = 'https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg'
-  email = 'floyd.li@outlook.com'
+  email = 'zakaz@armarost.ru'
   [[params.socialMedia]]
     name = 'Github'
     url = 'https://github.com/floyd-li'
   [[params.blogroll]]
-    name = '驭风笔记'
+    name = 'Маркетолог'
     url = 'https://yufengbiji.com/'
